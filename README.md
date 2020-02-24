@@ -2,9 +2,9 @@
 # <b>Algerian dialect lexicon</b><br>
 
 <b> <font size="+5"> Ressource type </font></b>: lexicon<br>
-<b>Ressource name</b>: ....<br>
+<b>Ressource name</b>: Algerian dialect lexicon <br>
 <b>Size</b>: 6,7k<br>
-<b>Languages</b>: Arabic dialect, Modern Standard Arabic, French and English. <br>
+<b>Languages</b>: Algerian dialect. <br>
 <b>Modality</b>: written <br>
 <b>Use of the resource</b>: <br>
 <b>Resource availability</b>: freely available<br>
