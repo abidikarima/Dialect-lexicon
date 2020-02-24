@@ -11,7 +11,8 @@
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
- A sample is given below. <br>
+This resource concern the Algerian dialect, it is generated automatically by using iterative multilingual word embedding approach. <br>
+Each entry of this lexicons is composed by a word, written in Arabic script (modern standard Arabic or dialect) or Latin script (Arabizi, French or English). for each word  several wwriting forms  in a script different from the one used for the word itself are extracted from YouTube. A sample is given below. <br>
 
 <table>
   <tr>
@@ -31,8 +32,8 @@
   
   </tr>
   <tr>
-    <td> mister </td>
-    <td></td>
+    <td> فلم </td>
+    <td>film filme</td>
   
   </tr>
   <tr>
