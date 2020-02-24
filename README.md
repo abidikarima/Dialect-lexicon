@@ -3,7 +3,7 @@
 
 <b> <font size="+5"> Ressource type </font></b>: lexicon<br>
 <b>Ressource name</b>: ....<br>
-<b>Size</b>: k<br>
+<b>Size</b>: 6,7k<br>
 <b>Languages</b>: Arabic dialect, Modern Standard Arabic, French and English. <br>
 <b>Modality</b>: written <br>
 <b>Use of the resource</b>: <br>
