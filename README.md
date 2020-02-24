@@ -41,6 +41,12 @@ Each entry of this lexicons is composed by a word, written in Arabic script (mod
     <td> مستر ميستر</td>
   
   </tr>
+  <tr>
+    <td> mansotich </td>
+    <td> مانسوطيش منسطيش منسوطييش مانصوتيش مانسوطييش ماانسووطيش منسوطيش مانسوطيوش مانصوطوش منصوطيش</td>
+  
+  </tr>
+  
 </table>
 <b>Documentation</b>: <br>
 If you use this lexicon, please cite the following paper <br>
