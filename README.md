@@ -19,29 +19,23 @@
     <td><b>Target comment</b></td>
   
   </tr>
+  
   <tr>
-    <td>vive tahar misoum rabi yahafdak</td>
-    <td>تحيا طاهر ميسوم </td>
+    <td> يحفدك </td>
+    <td>yahafdak yahfdek yahfedk yahefdek yahafdeek yahfdak yahafdek yahefdak yehafdak yahafadak </td>
   
   </tr>
 <tr>
-    <td>Merci chemsou je t'adore </td>
-    <td>نحبك شمسو بزاف</td>
+    <td> يرحمك </td>
+    <td> yr7mk yr7mak yrhamak yarhamek yarhemak yarhamk yarhmek yr7mek yere7mek yarhamak yarhemek yrhmk yar7mak yarhmak yer7makyarahmak yar7mek yarahmk yerhemek yarahmek yerehmek yerhamek yar7mik  yare7mek yerhamak yer7mek yerehemek yarhmeke rahimaka yrahmek yrahmak irahmak irhmak irahmek irhmk yra7mk yerahmak yrehmak yera7mak yerehmkyrhmak yera7mek yrehmek yara7mak yarehmek yara7mek yerahmeke yrhmek yarehmak yarhmk yerhmk yarhmeek yra7mak yerahmek ir7mak yra7mek yrahmk yarhamoka yrehmk yar7mk yerhmk ira7mak irehmek yerhmek yarahemek yerahmk yerhmek yrhmek yerahmak </td>
   
   </tr>
- 
   <tr>
-    <td> 10 mai 2017 mazalni nchouf la vidéo chkoun kima ana </td>
-    <td>لي مزال يعاود ف فيديو يكليكي جام علبالي رانا بزاف</td>
-  
-  </tr>
-   <tr>
-    <td> now we are free gladiator theme song </td>
-    <td>شكون يعرف اسم الاغنية عجبتني هاد موسيقة</td>
+    <td>  </td>
+    <td></td>
   
   </tr>
 </table>
 <b>Documentation</b>: <br>
 If you use this lexicon, please cite the following paper <br>
-
-Karima Abidi, Mohamed Amine Menacer, Kamel Smaili. CALYOU: A Comparable Spoken Algerian Corpus Harvested from YouTube. 18th Annual Conference of the International Communication Association (Interspeech), Aug 2017, Stockholm, Sweden.
+Karima  Abidi,  Kamel Smaili, LREC 11th edition of the Language Resources and Evaluation Conference (LREC), 7-12 May 2018, Miyazaki (Japan).
