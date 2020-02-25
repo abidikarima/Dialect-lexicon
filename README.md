@@ -5,7 +5,7 @@
 <b>Size</b>: 6,7k<br>
 <b>Languages</b>: Algerian dialect. <br>
 <b>Modality</b>: written <br>
-<b>Use of the resource</b>: <br>
+<b>Use of the resource</b>: To standardize the writing of dialect words <br>
 <b>Resource availability</b>: freely available<br>
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
