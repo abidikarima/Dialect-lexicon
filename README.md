@@ -1,8 +1,8 @@
 # Dialect-lexicon
-# <b>Algerian dialect lexicon</b><br>
+# <b>Lexicon of variable forms of Algerian words</b><br>
 
 <b> <font size="+5"> Ressource type </font></b>: lexicon<br>
-<b>Ressource name</b>: Algerian dialect lexicon <br>
+<b>Ressource name</b>: lexicon of variable forms of Algerian words <br>
 <b>Size</b>: 6,7k<br>
 <b>Languages</b>: Algerian dialect. <br>
 <b>Modality</b>: written <br>
