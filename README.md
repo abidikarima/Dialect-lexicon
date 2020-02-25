@@ -1,7 +1,7 @@
-# <b>Lexicon of variable forms of Algerian words</b><br>
+# <b>Lexicon of variables forms of Algerian words</b><br>
 
 <b> <font size="+5"> Ressource type </font></b>: lexicon<br>
-<b>Ressource name</b>: lexicon of variable forms of Algerian words <br>
+<b>Ressource name</b>: (VarAlg) Lexicon of variables forms of Algerian words <br>
 <b>Size</b>: 6,7k<br>
 <b>Languages</b>: Algerian dialect. <br>
 <b>Modality</b>: written <br>
@@ -10,8 +10,7 @@
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-This resource concern the Algerian dialect, it is generated automatically by using iterative multilingual word embedding approach. <br>
-Each entry of this lexicons is composed by a word, written in Arabic script (modern standard Arabic or dialect) or Latin script (Arabizi, French or English). for each word  several wwriting forms  in a script different from the one used for the word itself are extracted from YouTube. A sample is given below. <br>
+This ressource gather words with their  writing possibilities forms( orthographic variability), which is the main characteristic of Arabic dialects. The orthographic variability is due to the lack of standardization of writing, the use of Arabizi (writing arabic words- with latin characters)  and the lack of grammatical rules in writing in social networks. the lexicon was built automatically by using words emedding. Each entry  composed of word and their possiblilities   writing forms in diffrent script. This resource can be very useful in many applications of automatic language processing. A sample is given below. <br>
 
 <table>
   <tr>
