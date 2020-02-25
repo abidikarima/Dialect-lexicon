@@ -1,4 +1,3 @@
-# Dialect-lexicon
 # <b>Lexicon of variable forms of Algerian words</b><br>
 
 <b> <font size="+5"> Ressource type </font></b>: lexicon<br>
