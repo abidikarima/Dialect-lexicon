@@ -1,16 +1,16 @@
 # <b>Lexicon of variables forms of Algerian words</b><br>
 
-<b> <font size="+5"> Ressource type </font></b>: lexicon<br>
+<b> <font size="+5"> Ressource type </font></b>: Lexicon<br>
 <b>Ressource name</b>: (VarAlg) Lexicon of variables forms of Algerian words <br>
 <b>Size</b>: 6,7k<br>
 <b>Languages</b>: Algerian dialect. <br>
-<b>Modality</b>: written <br>
-<b>Use of the resource</b>: To standardize the writing of dialect words <br>
-<b>Resource availability</b>: freely available<br>
+<b>Modality</b>: Written <br>
+<b>Use of the resource</b>: To standardize the way of writting the Algerian dialect. <br>
+<b>Resource availability</b>: Freely available<br>
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-This ressource gather words with their  writing possibilities forms (orthographic variability), which is the main characteristic of Arabic dialects. The orthographic variability is due to the lack of standardization of writing, the use of Arabizi (writing arabic words with latin characters)  and the lack of grammatical rules in writing in social networks. the lexicon was built automatically by using Word embedding. Each entry is composed of word and their possiblilities  writing forms in diffrent script. This resource can be very useful in many applications of automatic language processing. Some examples of entries are given below. <br>
+This ressource gather words with their different writing possibilities (orthographic variability), which is the main characteristic of Arabic dialects especially those used in social networks. The orthographic variability is due to the lack of standardization of writing, the use of Arabizi (writing arabic words with latin characters)  and the lack of grammatical rules in writing in social networks. The lexicon was built automatically using word embedding approach. Each entry is composed by a word and its different writting forms. This resource can be very useful in many applications of natural language processing. Some examples of the entries of this lexicon are given below. <br>
 
 <table>
   <tr>
