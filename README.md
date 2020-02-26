@@ -10,7 +10,7 @@
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-This ressource gather words with their  writing possibilities forms( orthographic variability), which is the main characteristic of Arabic dialects. The orthographic variability is due to the lack of standardization of writing, the use of Arabizi (writing arabic words- with latin characters)  and the lack of grammatical rules in writing in social networks. the lexicon was built automatically by using words emedding. Each entry  composed of word and their possiblilities   writing forms in diffrent script. This resource can be very useful in many applications of automatic language processing. A sample is given below. <br>
+This ressource gather words with their  writing possibilities forms (orthographic variability), which is the main characteristic of Arabic dialects. The orthographic variability is due to the lack of standardization of writing, the use of Arabizi (writing arabic words with latin characters)  and the lack of grammatical rules in writing in social networks. the lexicon was built automatically by using Word embedding. Each entry is composed of word and their possiblilities  writing forms in diffrent script. This resource can be very useful in many applications of automatic language processing. Some examples of entries are given below. <br>
 
 <table>
   <tr>
