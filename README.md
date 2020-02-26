@@ -48,4 +48,4 @@ This ressource gather words with their different writing possibilities (orthogra
 </table>
 <b>Documentation</b>: <br>
 If you use this lexicon, please cite the following paper <br>
-Karima  Abidi,  Kamel Smaili, "An Automatic Learning of an Algerian Dialect Lexicon by using Multilingual Word Embeddings" LREC 11th edition of the Language Resources and Evaluation Conference (LREC), 7-12 May 2018, Miyazaki (Japan).
+Karima  Abidi,  Kamel Smaili, "An Automatic Learning of an Algerian Dialect Lexicon by using Multilingual Word Embeddings" LREC 11th edition of the Language Resources and Evaluation Conference (LREC), 7-12 May 2018, Miyazaki (Japan). PDF: https://hal.archives-ouvertes.fr/hal-01718110/file/KarimaKamelLREC.pdf
